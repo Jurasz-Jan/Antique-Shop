@@ -12,7 +12,7 @@ Then you need to edit /backend/config.js file ->  mongoURI variable,and change i
 ##### npm i
 ##### npm run dev
 #### In another terminal window:
-##### cd frontend
+##### cd frontend/store
 ##### npm i
 ##### npm run dev
 
