@@ -7,6 +7,9 @@ Then you need to edit /backend/config.js file ->  mongoURI variable,and change i
 
 
 ## How to run it?
+
+Use following commands:
+
 #### In one terminal window, use following commands:
 ##### cd backend
 ##### npm i
@@ -16,6 +19,4 @@ Then you need to edit /backend/config.js file ->  mongoURI variable,and change i
 ##### npm i
 ##### npm run dev
 
-## Antique schema
 
-### Condition of antique can only take values 'Excellent', 'Good', 'Fair', 'Poor'- important when creating etc.
