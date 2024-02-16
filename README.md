@@ -12,7 +12,8 @@ In terminal window use following commands:
 ##### cd backend
 ##### npm i
 ##### npm run dev
-#### In another terminal window:
+
+In second terminal window:
 ##### cd frontend/store
 ##### npm i
 ##### npm run dev
