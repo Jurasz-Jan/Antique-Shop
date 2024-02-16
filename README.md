@@ -8,9 +8,7 @@ Then you need to edit /backend/config.js file ->  mongoURI variable,and change i
 
 ## How to run it?
 
-Use following commands:
-
-#### In one terminal window, use following commands:
+In terminal window use following commands:
 ##### cd backend
 ##### npm i
 ##### npm run dev
