@@ -3,10 +3,10 @@
 A web application for managing an antique shop using a full-stack JavaScript stack. The project utilizes MongoDB for database management, React for the frontend, Express.js for the backend API, and Node.js as the runtime environment.
 
 ## Tech Stack
-- **MongoDB**: NoSQL database for storing data.
-- **React**: Frontend library for building the user interface.
-- **Express.js**: Backend framework for handling API requests.
-- **Node.js**: Server-side runtime environment.
+- **MongoDB**: 
+- **React**: 
+- **Express.js**:
+- **Node.js**: 
 
 ## Setting Up Your Own MongoDB Cluster
 To run the project locally, you need to set up your own MongoDB cluster. Follow these steps:
