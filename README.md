@@ -26,20 +26,20 @@ To run the project locally, you need to set up your own MongoDB cluster. Follow 
    cd backend```
    
 2. Install dependencies:
-```bash
-npm install```
+   ```bash
+   npm install```
 3. Start the backend server:
-```bash
-npm run dev```
+   ```bash
+   npm run dev```
 
 
 ### Frontend
 1. Open a second terminal window and navigate to the frontend/store directory:
-   ```bash
-   cd frontend/store```
+      ```bash
+      cd frontend/store```
 2. Install dependencies:
-   ```bash
-   npm install```
+      ```bash
+      npm install```
 3. Start the frontend application:
-   ```bash
-   npm run dev```
+      ```bash
+      npm run dev```
