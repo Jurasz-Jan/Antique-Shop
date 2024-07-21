@@ -1,21 +1,26 @@
-# ANTIQUE SHOP
-Stack: MongoDB, React, Express.js, Node.js
-## Setting your own MongoDB cluster
-As this project works in the MongoDB in cloud, it requires the user- if he does want to run it locally, of course- to use his own MongoDB connection string. You can get it for free on cloud.mongodb.com by creating a free cluster.
+# Antique Shop
 
-Then you need to edit /backend/config.js file ->  mongoURI variable,and change it to your valid connection string.
+A web application for managing an antique shop using a full-stack JavaScript stack. The project utilizes MongoDB for database management, React for the frontend, Express.js for the backend API, and Node.js as the runtime environment.
 
+## Tech Stack
+- **MongoDB**: NoSQL database for storing data.
+- **React**: Frontend library for building the user interface.
+- **Express.js**: Backend framework for handling API requests.
+- **Node.js**: Server-side runtime environment.
 
-## How to run it?
+## Setting Up Your Own MongoDB Cluster
+To run the project locally, you need to set up your own MongoDB cluster. Follow these steps:
+1. **Create a Free MongoDB Cluster**:
+   - Go to [MongoDB Cloud](https://cloud.mongodb.com).
+   - Sign up and create a free cluster.
 
-In terminal window use following commands:
-##### cd backend
-##### npm i
-##### npm run dev
+2. **Update Connection String**:
+   - Navigate to the `backend/config.js` file in your project.
+   - Replace the `mongoURI` variable with your MongoDB connection string.
 
-In second terminal window:
-##### cd frontend/store
-##### npm i
-##### npm run dev
+## Running the Application
 
-
+### Backend
+1. Open a terminal window and navigate to the backend directory:
+   ```bash
+   cd backend
